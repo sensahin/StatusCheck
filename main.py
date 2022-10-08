@@ -76,7 +76,6 @@ status_description = {
     511: "Network Authentication Required",
 }
 
-
 result = []
 
 try:
@@ -106,7 +105,6 @@ wb = writer.book
 
 ws = writer.sheets['Sheet1']
 
-
 for i in range(1, len(df.index)+1):
     if str(df.iloc[i-1, 1])[0] == "1":
         ws.cell(row=i+1, column=4).value = "Informational"
@@ -118,7 +116,6 @@ for i in range(1, len(df.index)+1):
         ws.cell(row=i+1, column=4).value = "Client Error"
     elif str(df.iloc[i-1, 1])[0] == "5":
         ws.cell(row=i+1, column=4).value = "Server Error"
-
 
 # add header for this new column
 ws.cell(row=1, column=4).value = "Category"
