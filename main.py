@@ -82,7 +82,7 @@ result = []
 try:
     for url in url_list:
         try:
-            r = requests.get(url, headers=headers)
+            r = requests.get(url, headers=headers,allow_redirects=False)
             r.raise_for_status()
             if r.status_code in status_description:
                 print("URL:", url)
@@ -106,11 +106,29 @@ wb = writer.book
 
 ws = writer.sheets['Sheet1']
 
+
 for i in range(1, len(df.index)+1):
-    if df.iloc[i-1, 1] != 200:
-        ws.cell(row=i+1, column=2).fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
+    if str(df.iloc[i-1, 1])[0] == "1":
+        ws.cell(row=i+1, column=4).value = "Informational"
+    elif str(df.iloc[i-1, 1])[0] == "2":
+        ws.cell(row=i+1, column=4).value = "Successful"
+    elif str(df.iloc[i-1, 1])[0] == "3":
+        ws.cell(row=i+1, column=4).value = "Redirection"
+    elif str(df.iloc[i-1, 1])[0] == "4":
+        ws.cell(row=i+1, column=4).value = "Client Error"
+    elif str(df.iloc[i-1, 1])[0] == "5":
+        ws.cell(row=i+1, column=4).value = "Server Error"
+
+
+# add header for this new column
+ws.cell(row=1, column=4).value = "Category"
+
+# if category is "Client Error" or  "Server Error" or rediretion then fill the cell with red color. if category is Informational then fill the cell with yello color
+for i in range(1, len(df.index)+1):
+    if ws.cell(row=i+1, column=4).value == "Client Error" or ws.cell(row=i+1, column=4).value == "Server Error" or ws.cell(row=i+1, column=4).value == "Redirection":
+        ws.cell(row=i+1, column=4).fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
+    elif ws.cell(row=i+1, column=4).value == "Informational":
+        ws.cell(row=i+1, column=4).fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
 
 
 writer.close()
-
-
