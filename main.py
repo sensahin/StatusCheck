@@ -78,26 +78,34 @@ status_description = {
 
 result = []
 
-try:
-    for url in url_list:
-        try:
-            r = requests.get(url, headers=headers,allow_redirects=False)
-            r.raise_for_status()
-            if r.status_code in status_description:
-                print("URL:", url)
-                print("Status Code: {}".format(r.status_code))
-                print("Status Description: {}".format(status_description[r.status_code]))
-                result.append([url, r.status_code, status_description[r.status_code]])
-        except Exception as e:
-            print(e)
-            result.append([url, e, e])
+for url in url_list:
+    try:
+        r = requests.get(url, headers=headers,allow_redirects=False)
+        r.raise_for_status()
+        if r.status_code in status_description:
+            print("URL:", url)
+            print("Status Code: {}".format(r.status_code))
+            print("Status Description: {}".format(status_description[r.status_code]))
+            # if status code start with 3 then add redirect url else add empty string
+            if str(r.status_code).startswith('3'):
+                print("Redirect URL: {}".format(r.headers['Location']))
+                result.append([url, r.status_code, status_description[r.status_code], r.headers['Location']])
+            else:
+                print("Redirect URL: {}".format(''))
+                result.append([url, r.status_code, status_description[r.status_code], ''])
+        else:
+            print("URL:", url)
+            print("Status Code: {}".format(r.status_code))
+            print("Status Description: {}".format("Unknown"))
+            print("Redirect URL: {}".format(''))
+            result.append([url, r.status_code, "Unknown", ''])
+    except Exception as e:
+        print(e)
+        result.append([url, "Error", str(e), ''])
 
-except requests.exceptions.HTTPError as err:
-    print("Error: ", err)
+df = pd.DataFrame(result, columns=['URL', 'Status Code', 'Status Description', 'Redirect URL'])
 
-df = pd.DataFrame(result, columns=["URL", "Status Code", "Status Description"])
-
-writer = pd.ExcelWriter('output.xlsx', engine='openpyxl')
+writer = pd.ExcelWriter('result.xlsx', engine='openpyxl')
 
 df.to_excel(writer, sheet_name='Sheet1', index=False)
 
@@ -105,27 +113,10 @@ wb = writer.book
 
 ws = writer.sheets['Sheet1']
 
-for i in range(1, len(df.index)+1):
-    if str(df.iloc[i-1, 1])[0] == "1":
-        ws.cell(row=i+1, column=4).value = "Informational"
-    elif str(df.iloc[i-1, 1])[0] == "2":
-        ws.cell(row=i+1, column=4).value = "Successful"
-    elif str(df.iloc[i-1, 1])[0] == "3":
-        ws.cell(row=i+1, column=4).value = "Redirection"
-    elif str(df.iloc[i-1, 1])[0] == "4":
-        ws.cell(row=i+1, column=4).value = "Client Error"
-    elif str(df.iloc[i-1, 1])[0] == "5":
-        ws.cell(row=i+1, column=4).value = "Server Error"
+redFill = PatternFill(start_color='FFC7CE', end_color='FFC7CE', fill_type='solid')
 
-# add header for this new column
-ws.cell(row=1, column=4).value = "Category"
-
-# if category is "Client Error" or  "Server Error" or rediretion then fill the cell with red color. if category is Informational then fill the cell with yello color
-for i in range(1, len(df.index)+1):
-    if ws.cell(row=i+1, column=4).value == "Client Error" or ws.cell(row=i+1, column=4).value == "Server Error" or ws.cell(row=i+1, column=4).value == "Redirection":
-        ws.cell(row=i+1, column=4).fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
-    elif ws.cell(row=i+1, column=4).value == "Informational":
-        ws.cell(row=i+1, column=4).fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
-
+for i in range(2, len(df) + 2):
+    if df['Status Code'][i - 2] != 200:
+        ws.cell(row=i, column=2).fill = redFill
 
 writer.close()
