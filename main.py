@@ -100,7 +100,7 @@ for url in url_list:
             print("Status Description: {}".format("Unknown"))
             print("Redirect URL: {}".format(''))
             result.append([url, r.status_code, "Unknown", ''])
-    except Exception as e:
+    except requests.exceptions.RequestException as e:
         print("URL Error: {}".format(url))
         result.append([url, "Error", str(e), ''])
 
