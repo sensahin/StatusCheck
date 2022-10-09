@@ -80,7 +80,7 @@ result = []
 
 for url in url_list:
     try:
-        r = requests.get(url, headers=headers,allow_redirects=False)
+        r = requests.get(url, headers=headers,allow_redirects=False, timeout=10)
         r.raise_for_status()
         if r.status_code in status_description:
             print("URL:", url)
