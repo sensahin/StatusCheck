@@ -1,0 +1,3284 @@
+[
+    {
+        "URL":"http:\/\/archive.is\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/archive.is\/"
+    },
+    {
+        "URL":"http:\/\/areyouahuman.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='areyouahuman.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0d30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/avatars.io\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='avatars.io', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0e20>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/beta.mural.ly\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/beta.mural.co\/"
+    },
+    {
+        "URL":"http:\/\/bli.ms\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/boxjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/buddypress.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/buddypress.org\/"
+    },
+    {
+        "URL":"http:\/\/carbonmade.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/carbonmade.com:443\/"
+    },
+    {
+        "URL":"http:\/\/dochub.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/dochub.com\/"
+    },
+    {
+        "URL":"http:\/\/dropr.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/dropr.com\/"
+    },
+    {
+        "URL":"http:\/\/epilogger.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='epilogger.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fontello.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/fontello.com\/"
+    },
+    {
+        "URL":"http:\/\/g.etfv.co\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/ww16.g.etfv.co\/?sub1=20221009-1825-401e-a9f1-bcb236433d00"
+    },
+    {
+        "URL":"http:\/\/getglue.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/getglue.com\/"
+    },
+    {
+        "URL":"http:\/\/gist-it.sudarmuthu.com\/",
+        "Status Code":"Error",
+        "Status Description":"500 Server Error: Internal Server Error for url: http:\/\/gist-it.sudarmuthu.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/gist.io\/",
+        "Status Code":308,
+        "Status Description":"Permanent Redirect",
+        "Redirect URL":"https:\/\/gist.io\/"
+    },
+    {
+        "URL":"http:\/\/hubpages.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/hubpages.com\/"
+    },
+    {
+        "URL":"http:\/\/icomoon.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/icomoon.io\/"
+    },
+    {
+        "URL":"http:\/\/imgops.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jetrank.com\/tf\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/jetrank.com\/tf\/"
+    },
+    {
+        "URL":"http:\/\/jetstrap.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/koken.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.koken.me\/"
+    },
+    {
+        "URL":"http:\/\/loader.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/loader.io:443\/"
+    },
+    {
+        "URL":"http:\/\/mashajs.com\/index_eng.html#sel=3:38,3:59",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/ww38.mashajs.com\/index_eng.html"
+    },
+    {
+        "URL":"http:\/\/memolane.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/mixture.io\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='mixture.io', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e05e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/mlkshk.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.mlkshk.com\/"
+    },
+    {
+        "URL":"http:\/\/nerdquery.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='nerdquery.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0280>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/owncloud.org\/providers\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/owncloud.org\/providers\/"
+    },
+    {
+        "URL":"http:\/\/pheedr.net\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='pheedr.net', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e05b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pineapple.io\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/pineapple.io\/cgi-sys\/suspendedpage.cgi"
+    },
+    {
+        "URL":"http:\/\/plancast.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/marcyes.com"
+    },
+    {
+        "URL":"http:\/\/pretty-rfc.herokuapp.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/readlists.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='readlists.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e08b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/scr.im\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/searchpath.io\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='searchpath.io', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e05b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/slide.ly\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/slide.ly\/"
+    },
+    {
+        "URL":"http:\/\/snag.gy\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/snag.gy\/"
+    },
+    {
+        "URL":"http:\/\/snippi.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/snippi.com\/"
+    },
+    {
+        "URL":"http:\/\/socrates.io\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/staticloud.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tinyletter.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/unshort.me\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www6.unshort.me\/?template=ARROW_3&tdfs=1&s_token=1665299788.0245080000&uuid=1665299788.0245080000&searchbox=1&showDomain=1"
+    },
+    {
+        "URL":"http:\/\/via.me\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='via.me', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1210e06a0>, 'Connection to via.me timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/vimeo-portfolio.heroku.com\/?user=davidhiggins",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='vimeo-portfolio.heroku.com', port=80): Max retries exceeded with url: \/?user=davidhiggins (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c8b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.cssminifier.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.toptal.com\/developers\/cssminifier\/"
+    },
+    {
+        "URL":"http:\/\/www.dreamwidth.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.dreamwidth.org\/"
+    },
+    {
+        "URL":"http:\/\/www.getloupe.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.grumdrig.com\/emoji-list\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.moonfruit.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.moonfruit.com\/"
+    },
+    {
+        "URL":"http:\/\/www.pluss.es\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.pluss.es\/"
+    },
+    {
+        "URL":"http:\/\/www.w3resource.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.w3resource.com\/"
+    },
+    {
+        "URL":"https:\/\/coderbits.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='coderbits.com', port=443): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12115c100>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/collections.me\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='collections.me', port=443): Max retries exceeded with url: \/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/crocodoc.com\/see-it-in-action\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='crocodoc.com', port=443): Max retries exceeded with url: \/see-it-in-action\/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12115c850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/entrydns.net\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/feedbin.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/feedbin.com\/"
+    },
+    {
+        "URL":"https:\/\/gimmebar.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='gimmebar.com', port=443): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12115c3a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/hackpad.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/paper.dropbox.com\/hackpad\/"
+    },
+    {
+        "URL":"https:\/\/imo.im\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.striking.ly\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.strikingly.com\/"
+    },
+    {
+        "URL":"https:\/\/www.subtome.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/abrah.am\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/abrah.am\/"
+    },
+    {
+        "URL":"http:\/\/adamwhitcroft.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/andrewcantino.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/andrewcantino.com\/"
+    },
+    {
+        "URL":"http:\/\/anton.kovalyov.net\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/anton.kovalyov.net\/"
+    },
+    {
+        "URL":"http:\/\/blog.idered.pl\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='blog.idered.pl', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/bod.ge\/#\/personal",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/bod.ge\/"
+    },
+    {
+        "URL":"http:\/\/brad.is\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/brad.is\/"
+    },
+    {
+        "URL":"http:\/\/braythwayt.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/chrismessina.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/chrismessina.me\/"
+    },
+    {
+        "URL":"http:\/\/christina.is",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dbushell.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/dbushell.com\/"
+    },
+    {
+        "URL":"http:\/\/elliottkember.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/farhadi.ir\/about\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='farhadi.ir', port=80): Max retries exceeded with url: \/about\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1211723d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/hsivonen.iki.fi\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/hsivonen.iki.fi\/"
+    },
+    {
+        "URL":"http:\/\/icreateui.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/hojberg.xyz"
+    },
+    {
+        "URL":"http:\/\/jakiestfu.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jakiestfu.com\/category\/rants\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/jakiestfu.com\/category\/rants\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/joeellis.la\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/johndyer.name\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/j.hn\/"
+    },
+    {
+        "URL":"http:\/\/jonraasch.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/kushagragour.in\/",
+        "Status Code":"Error",
+        "Status Description":"403 Client Error: Forbidden for url: http:\/\/kushagragour.in\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/lancepollard.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.lancepollard.com\/"
+    },
+    {
+        "URL":"http:\/\/larsjung.de\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/larsjung.de\/"
+    },
+    {
+        "URL":"http:\/\/lovesgoodfood.com\/jason\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/madebyues.com",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='madebyues.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121172100>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/michaelwright.me\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='michaelwright.me', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121172220>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/miketaylr.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/monkeecreate.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/nimbupani.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/ot-crew.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='ot-crew.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121172370>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/papercavalier.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/papercavalier.com\/"
+    },
+    {
+        "URL":"http:\/\/paulmillr.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/paulmillr.com\/"
+    },
+    {
+        "URL":"http:\/\/paulrouget.com\/e\/jsterm\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/paulrouget.com\/e\/jsterm\/"
+    },
+    {
+        "URL":"http:\/\/petesmart.co.uk\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/petesmart.co.uk\/"
+    },
+    {
+        "URL":"http:\/\/raganwald.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/rog.ie\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/rog.ie\/"
+    },
+    {
+        "URL":"http:\/\/romainhuet.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/sstephenson.us\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/sstephenson.us\/"
+    },
+    {
+        "URL":"http:\/\/tantek.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/taylorjasko.com\/2012\/07\/tech-cores-v3-0-website\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/taylorjasko.com\/2012\/07\/tech-cores-v3-0-website\/"
+    },
+    {
+        "URL":"http:\/\/theamazingweb.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/theamazingweb.net\/"
+    },
+    {
+        "URL":"http:\/\/tholman.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/tholman.com\/"
+    },
+    {
+        "URL":"http:\/\/tylerbuilds.co\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/unhandled.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/unhandled.com\/"
+    },
+    {
+        "URL":"http:\/\/web.lookout.net\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Vhost unknown. for url: http:\/\/web.lookout.net\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/webreflection.blogspot.ie\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/webreflection.blogspot.com\/"
+    },
+    {
+        "URL":"http:\/\/www.arvidandersson.se\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/arvidandersson.se\/"
+    },
+    {
+        "URL":"http:\/\/www.dematte.at\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.fffabs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.hagenburger.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.hagenburger.net\/"
+    },
+    {
+        "URL":"http:\/\/www.jacklmoore.com",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.mikezilla.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.nico.im\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/nico.im\/"
+    },
+    {
+        "URL":"http:\/\/www.practicallyefficient.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.tosh.at\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.ramen.io"
+    },
+    {
+        "URL":"http:\/\/www.usabilitypost.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.usabilitypost.com\/"
+    },
+    {
+        "URL":"https:\/\/eeqj.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/medium.com\/@dpup",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/nicolas.perriault.net\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/artmoments.hu\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.artmoments.hu\/"
+    },
+    {
+        "URL":"http:\/\/bartaz.github.com\/sandbox.js\/jquery.highlight.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/bartaz.github.com\/sandbox.js\/jquery.highlight.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/buildwithcraft.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/craftcms.com\/"
+    },
+    {
+        "URL":"http:\/\/css3.pascal-seven.de\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/css3ps.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/css3watch.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/csscience.com\/placeholder\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='csscience.com', port=80): Max retries exceeded with url: \/placeholder\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115cd30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/cssdeck.com\/labs\/simple-love-buttons",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/cssdeck.com\/labs\/simple-love-buttons"
+    },
+    {
+        "URL":"http:\/\/downloads.dvq.co.nz\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='downloads.dvq.co.nz', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c6a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/eddit.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/emojisymbols.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fico.lensco.be\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/fico.lensco.be\/"
+    },
+    {
+        "URL":"http:\/\/filetypeicons.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/freebbble.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/freshtilledsoil.github.com\/champagne\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/freshtilledsoil.github.com\/champagne\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/galleria.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/galleria.io\/"
+    },
+    {
+        "URL":"http:\/\/genericons.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/genericons.com\/"
+    },
+    {
+        "URL":"http:\/\/getpreboot.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/graphicpeel.com\/cssiosicons",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/graphicpeel.com\/cssiosicons",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/happyjs.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.hugedomains.com\/domain_profile.cfm?d=happyjs.com"
+    },
+    {
+        "URL":"http:\/\/hellohappy.org\/beautiful-web-type\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/hellohappy.org\/beautiful-web-type\/"
+    },
+    {
+        "URL":"http:\/\/hlvticons.ch\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/hoverstat.es\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/hoverstat.es\/"
+    },
+    {
+        "URL":"http:\/\/html.adobe.com\/edge\/webfonts\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.adobe.com\/creativecloud\/catalog\/desktop.html"
+    },
+    {
+        "URL":"http:\/\/icomoon.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/icomoon.io\/"
+    },
+    {
+        "URL":"http:\/\/iconsweets2.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/designbombs.com\/iconsweets2\/"
+    },
+    {
+        "URL":"http:\/\/joeyvo.me\/lensview\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/track.vcdc.com\/proceed.php?domain=joeyvo.me&hash=052f934b5637baab2c927cce56451df7&u=eyJkb21haW4iOiJqb2V5dm8ubWUiLCJkb21haW5faWQiOiIyMzcxOTc1MiIsImZvbGRlcl9pZCI6bnVsbCwibWlkIjoiMTUxIiwiZmlsdGVyX2lkIjpudWxsLCJhZHZlcnRpc2VyX2lkIjoiOTgiLCJ0YXJnZXQiOiJodHRwczpcL1wvbXliZXR0ZXJjay5jb21cL2FTXC9mZWVkY2xpY2s\/cz1Kck1rZHo4RjNPaVdEQTRnbFlNVlR2Um9oT0lBUU54cC1NaDM2RkFocGIxNmI2ZDRhcFRiYk5JQTBHWDV1QkFoV2o4TFFIcWR0M2dkSzdYNVFJYzNuMGhmczlJVmE3VUdRNTdXekJGMmN6bm1qMTN3RnFkTUt3enJqOHZ1LXpwNGlVbk1LRzF4djMxcjZIUHFjNV9UNVhmbUVOWVhiV3pOTmw2UkdUc0JTa21qR2ktVFdodHdkN1liMlozbXhjTzlvRVNaUlMxcHVISnFvdjFnN25BZkJEWVN0T3JFTzFGbVlCLUJIVkw2WElRcFctUVB3bUZoWHJTNWtSSDZpVTAyVXV1QV9STzFhN3pxMXVZaklsVXFuNzVsNFdBcGV1amNacDJ4aE93MnpQRXFVM1h1UDl2eDVMMFFjU0tESFBqYWphRk9DOXFqSnFPZTkwakJfRXNsS0NwTHJFOEY3M3hkYzJBYzZpZmpzcDdUbHpVX3VPeEFFcTVVYVVLN2VGaDgyT2o2a2VoZzBUck5ObGNXWjFITl9UZmRCRUFrV1N0ZW5henp0M2ZjcWE3SjFka1c5MkQ1dTNtRXZXVTAzSXNuTzlTVFBtSjY4UkI5NVNiUnM2UGhtV2liN0FjbjlwMTUtdHV5TEtxNktlRUxZM3p0MkJqSGZwSVJTcDgwaFA3d1hWVUxOS29qREpfeFYtdVlTU1ZRVjlvbElGbmZoekpGelJOZnlwalJBaWpfSDhfT2Z1T0lMZVpxR01Kc2NUdjc1cS1hUmtFZlFyWXhDWDhBLWZKWlhmT3hLcTB2bWlnN1A3WXo4WVRyMGJlWktjYjQwbHFMclJXWnpzOWhIbUFaWVVqUkoxREk2WEcwcVg3UlNUUFZRQ1hPWFRTbFRMN0tWNFBhWWlIajRfVmJPZUVCVXRVSnY3bFZfcGg5eGttdllLV2Frcmx2YWNKcHBOc2hqNktTQ2ZHTTJla0lTSlBXbnFYckh3MU1aYXR1RnJsN25RMkdrUHRiWTA0a1d2MkFJNERrbEVLU0o1dFhIRDZKUEVoTllqQkFlSnIzaTdYM1ZJNFdkSWlZemdzSG1Gd0x0UE9ZazNUdEk3N0hwekU0Z1JEWmdwV1pMYWlGOVlQajlFaXIxZkxabDdRMDg5NTdPRjAweVUwd1FlYlplczVzTVdKbVVTNDNYYlRZTDNiTHhTc0FCWUphSXFjLWRZTHdpWGtPT3FLWUxpSUVsVjlDY1ZPc0NJX0hVSzJFd1dCTkZUTmlJTzRlMGNYOVhsQzROTU1VUi1RR0YzYWduZ0E5U0w0VFdqX0xGS2FRZmRDSVY3ekdEa1hUaEY2ZnhSelh4SVNxS0NHNi1FbkNQcmpqZC1wOWZsUXZncmlvbng4QjcxbDZDTVdfTFpFb2JaZkpzZ1NabHV4SEJ6MDdwZ0hrNldPOGVOcHFvdlJIQThBNWhRbzRRT1pLSE0tSFg4eTY2RTZNSURqRnBqTy1OLUs2b3hGbEdfZFpmSnltNmJUU3FQRHY0bEhhYXVpU3Z0czQ3V3dCTTdMRjdfWTgtbU80SmVSS01mRzRKeTVoSzUtLWNjU1JlZ3ZCbllILXFxNXF5WnN0ZEhmd1BKQXlNZVlXWEh6TXotRk1sLVhLZnNZMVg1Zkhtd19FUlFkcDZCRkVNQnZWVDBCMUNwSDZZd0hBODBuZDZWcEZfaTlVM2FXdi1FSG9lSnY3WkZEdmxPVDk3Qk5vZ2FNaERxZjdrRXJtWUJhcEUwVzlTVkdvR2gteEVXZXFmUkQ4T3ZGbWFBQmVCTmtFcjZFY1F6Rmxra0xFQjE0NnBRIiwiaXBfYWRkcmVzcyI6IjE4OC4xMTkuNTQuMjM0IiwidHlwZSI6ImphdmFfcmVkaXJlY3QiLCJiaWQiOiIwLjAwMjMyIn0="
+    },
+    {
+        "URL":"http:\/\/jsfiddle.net\/codef0rmer\/wzpNB\/embedded\/result\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/jsfiddle.net\/codef0rmer\/wzpNB\/"
+    },
+    {
+        "URL":"http:\/\/konigi.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/konigi.com\/"
+    },
+    {
+        "URL":"http:\/\/kushagragour.in\/lab\/hint\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/kushagragour.in\/lab\/hint\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/labs.mitgux.com\/smooth-scroll-to-top-using-css3-animations\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/louisremi.github.com\/menu-effects\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/louisremi.github.com\/menu-effects\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/lucianmarin.com\/peculiar\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/lucianmarin.com\/peculiar\/"
+    },
+    {
+        "URL":"http:\/\/luiszuno.com\/blog\/",
+        "Status Code":"Error",
+        "Status Description":"403 Client Error: Forbidden for url: http:\/\/luiszuno.com\/blog\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/markdurrant.github.com\/noisy-uris\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/markdurrant.github.com\/noisy-uris\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/medialoot.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/medialoot.com\/"
+    },
+    {
+        "URL":"http:\/\/oak.is\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/oak.is\/"
+    },
+    {
+        "URL":"http:\/\/pea.rs\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/dan.com\/buy-domain\/pea.rs?redirected=true"
+    },
+    {
+        "URL":"http:\/\/people.mozilla.com\/~shorlander\/ux-presentation\/ux-presentation.html",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='people.mozilla.com', port=80): Max retries exceeded with url: \/~shorlander\/ux-presentation\/ux-presentation.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c1c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pfefferle.github.com\/openwebicons\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/pfefferle.github.com\/openwebicons\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/playground.deaxon.com\/css\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='playground.deaxon.com', port=80): Max retries exceeded with url: \/css\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115cc70>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/quoteunquoteapps.com\/courierprime\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/quoteunquoteapps.com\/courierprime\/"
+    },
+    {
+        "URL":"http:\/\/simpleicons.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/simpleicons.org\/"
+    },
+    {
+        "URL":"http:\/\/splashyfish.com\/icons\/",
+        "Status Code":303,
+        "Status Description":"See Other",
+        "Redirect URL":"https:\/\/www.jdrf.org\/icons"
+    },
+    {
+        "URL":"http:\/\/styleneat.com\/index.php",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.styleneat.com\/"
+    },
+    {
+        "URL":"http:\/\/symbolset.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/symbolset.com\/"
+    },
+    {
+        "URL":"http:\/\/typeplate.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/usablica.github.com\/front-end-frameworks\/compare.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/usablica.github.com\/front-end-frameworks\/compare.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/visualidiot.com\/articles\/css3",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.visualidiot.com\/articles\/css3"
+    },
+    {
+        "URL":"http:\/\/weloveiconfonts.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/weloveiconfonts.com\/"
+    },
+    {
+        "URL":"http:\/\/www.blacknegative.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.browserui.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.clicktorelease.com\/code\/css3dclouds\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.clicktorelease.com\/code\/css3dclouds\/"
+    },
+    {
+        "URL":"http:\/\/www.codebeautifier.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.colors.commutercreative.com\/grid\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/147colors.com\/grid\/"
+    },
+    {
+        "URL":"http:\/\/www.cssminifier.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.toptal.com\/developers\/cssminifier\/"
+    },
+    {
+        "URL":"http:\/\/www.fluidsquares.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.inserthtml.com\/demo\/css-loading-bar\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.html5canvastutorials.com\/blog\/demo\/css-loading-bar\/"
+    },
+    {
+        "URL":"http:\/\/www.mybestworks.com\/works\/css_button_trick\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.mybestworks.com\/works\/css_button_trick\/"
+    },
+    {
+        "URL":"http:\/\/www.usabilitypost.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.usabilitypost.com\/"
+    },
+    {
+        "URL":"https:\/\/github.com\/christiannaths\/Redacted-Font",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/joscha\/gmailui",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/kitcambridge\/evil.js",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/star2dev\/Google-plus-buttons",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/adamvarga.com\/strike\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/brajeshwar.github.com\/entities\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/brajeshwar.github.com\/entities\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/character-code.com\/emoticons-html-codes.php",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='character-code.com', port=80): Max retries exceeded with url: \/emoticons-html-codes.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x12115c040>, 'Connection to character-code.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/copypastecharacter.com\/iphone",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/copypastecharacter.com\/iphone"
+    },
+    {
+        "URL":"http:\/\/fsymbols.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/fsymbols.com\/"
+    },
+    {
+        "URL":"http:\/\/overapi.com\/unicode\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/overapi.com\/unicode\/"
+    },
+    {
+        "URL":"http:\/\/unicod.es\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='unicod.es', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0f70>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.emoji-cheat-sheet.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.webfx.com\/tools\/emoji-cheat-sheet\/"
+    },
+    {
+        "URL":"http:\/\/www.font.su\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.cheat-sheets.org\/sites\/font.su\/"
+    },
+    {
+        "URL":"http:\/\/www.grumdrig.com\/emoji-list\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.japaneseemoticons.net\/all-japanese-emoticons\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/japaneseemoticons.me\/"
+    },
+    {
+        "URL":"http:\/\/www.unicodemap.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/unicodemap.org\/"
+    },
+    {
+        "URL":"http:\/\/java-0day.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/java-0day.com\/"
+    },
+    {
+        "URL":"http:\/\/disable-java.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='disable-java.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e06a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/panopticlick.eff.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/coveryourtracks.eff.org\/"
+    },
+    {
+        "URL":"http:\/\/cryptome.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/cryptome.org\/"
+    },
+    {
+        "URL":"http:\/\/www.imperialviolet.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.imperialviolet.org\/"
+    },
+    {
+        "URL":"http:\/\/lcamtuf.coredump.cx\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/lcamtuf.coredump.cx\/"
+    },
+    {
+        "URL":"https:\/\/panopticlick.eff.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/coveryourtracks.eff.org\/"
+    },
+    {
+        "URL":"http:\/\/html5sec.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/html5sec.org\/"
+    },
+    {
+        "URL":"http:\/\/civicuk.com\/cookie-law\/cookie_configuration_v5",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='civicuk.com', port=80): Read timed out. (read timeout=5)",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/sourceforge.net\/projects\/waspap\/files\/waspap\/Core\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/sourceforge.net\/projects\/waspap\/files\/waspap\/Core\/"
+    },
+    {
+        "URL":"https:\/\/www.owasp.org\/index.php\/XSS_Filter_Evasion_Cheat_Sheet",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/owasp.org\/index.php\/XSS_Filter_Evasion_Cheat_Sheet"
+    },
+    {
+        "URL":"http:\/\/owasp.org",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/owasp.org\/"
+    },
+    {
+        "URL":"http:\/\/cookiecuttr.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='cookiecuttr.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b760>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/faceless.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/faceless.me\/"
+    },
+    {
+        "URL":"http:\/\/userrules.com\/pricing",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='userrules.com', port=80): Max retries exceeded with url: \/pricing (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b2e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/intensedebate.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/intensedebate.com\/"
+    },
+    {
+        "URL":"http:\/\/bugira.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/userecho.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/userecho.com\/"
+    },
+    {
+        "URL":"http:\/\/www.criticue.com\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.criticue.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/webengage.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/webengage.com\/"
+    },
+    {
+        "URL":"https:\/\/www.zopim.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.zendesk.com\/chat\/?from=zp"
+    },
+    {
+        "URL":"https:\/\/www.statuspage.io\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.statuspage.com\/"
+    },
+    {
+        "URL":"http:\/\/www.survs.com\/pricing\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.survs.com', port=80): Max retries exceeded with url: \/pricing\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/get.harmonyapp.com\/pricing\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.webink.com\/pricing\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.webink.com', port=80): Max retries exceeded with url: \/pricing\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b670>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/appfog.com\/products\/phpfog\/pricing\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='appfog.com', port=80): Max retries exceeded with url: \/products\/phpfog\/pricing\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.tropo.com\/pricing\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='www.tropo.com', port=443): Max retries exceeded with url: \/pricing\/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12117b2b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.twilio.com\/pricing\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.twilio.com:443\/pricing\/"
+    },
+    {
+        "URL":"http:\/\/www.exavault.com\/pricing\/",
+        "Status Code":308,
+        "Status Description":"Permanent Redirect",
+        "Redirect URL":"https:\/\/www.exavault.com\/pricing\/"
+    },
+    {
+        "URL":"http:\/\/www.userrules.com\/pricing",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.userrules.com', port=80): Max retries exceeded with url: \/pricing (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b2e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.textdropapp.com\/home\/Home",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/aaron.pk\/bookmarks\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/aaron.pk\/bookmarks\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/bli.ms\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/cloudharmony.com\/clouds",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/cloudharmony.com\/clouds"
+    },
+    {
+        "URL":"http:\/\/component.jit.su\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='component.jit.su', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/distilledhype.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.hugedomains.com\/domain_profile.cfm?d=distilledhype.com"
+    },
+    {
+        "URL":"http:\/\/html5bookmarks.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/html5bookmarks.com\/"
+    },
+    {
+        "URL":"http:\/\/jster.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/jster.net\/"
+    },
+    {
+        "URL":"http:\/\/kllktv.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/nerdi.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/dan.com\/buy-domain\/nerdi.net?redirected=true"
+    },
+    {
+        "URL":"http:\/\/news.ycombinator.com\/item?id=5235137",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/news.ycombinator.com\/item?id=5235137"
+    },
+    {
+        "URL":"http:\/\/nylllon.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='nylllon.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b2b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/ot-crew.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='ot-crew.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b7c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pineapple.io\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/pineapple.io\/cgi-sys\/suspendedpage.cgi"
+    },
+    {
+        "URL":"http:\/\/twitter.pbworks.com\/w\/page\/1779741\/Bots",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/usablica.github.com\/front-end-frameworks\/compare.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/usablica.github.com\/front-end-frameworks\/compare.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/wiki.thingsandstuff.org\/JS_projects",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/wiki.thingsandstuff.org\/JS_projects"
+    },
+    {
+        "URL":"http:\/\/wildwebwatch.com\/liens.php",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='wildwebwatch.com', port=80): Max retries exceeded with url: \/liens.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b5b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.agiledesigners.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.agiledesigners.com', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x12117b100>, 'Connection to www.agiledesigners.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.bootstraphero.com\/the-big-badass-list-of-twitter-bootstrap-resources",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/sendcheckit.com\/the-big-badass-list-of-twitter-bootstrap-resources\/the-big-badass-list-of-twitter-bootstrap-resources"
+    },
+    {
+        "URL":"http:\/\/www.cloudli.st\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.cloudli.st', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b130>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.cucumbernebula.com\/blog\/online-marketing-blogs\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.cucumbernebula.com', port=80): Max retries exceeded with url: \/blog\/online-marketing-blogs\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182520>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.diigo.com\/user\/justjenfelice\/webdesign",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.diigo.com\/user\/justjenfelice\/webdesign"
+    },
+    {
+        "URL":"http:\/\/www.jsdb.io\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www6.jsdb.io\/?template=ARROW_3&tdfs=1&s_token=1665300540.0379970000&uuid=1665300540.0379970000&term=Javascript%20Chart%20Library&term=Javascript%20Grid&term=Javascript%20Database&searchbox=0&showDomain=0&backfill=0"
+    },
+    {
+        "URL":"http:\/\/www.thewebblend.com\/category\/tools",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.thewebblend.com', port=80): Max retries exceeded with url: \/category\/tools (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b220>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.webdesignerdepot.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.webdesignerdepot.com\/"
+    },
+    {
+        "URL":"http:\/\/www.yearofmoo.com\/code\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.yearofmoo.com\/code\/"
+    },
+    {
+        "URL":"http:\/\/xuix.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.buydomains.com\/lander\/xuix.com?domain=xuix.com&utm_source=xuix.com&utm_medium=click&utm_campaign=tdfs-AprTest&traffic_id=AprTest&traffic_type=tdfs&redirect=ono-redirect"
+    },
+    {
+        "URL":"http:\/\/artmoments.hu\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.artmoments.hu\/"
+    },
+    {
+        "URL":"http:\/\/chill.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/chill.com\/"
+    },
+    {
+        "URL":"http:\/\/connors.github.com\/simple-user-styles\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/connors.github.com\/simple-user-styles\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/craphound.com\/wpspamdump.txt",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/craphound.com\/wpspamdump.txt"
+    },
+    {
+        "URL":"http:\/\/dearmarissamayer.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='dearmarissamayer.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b970>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dribbbleboard.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='dribbbleboard.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e07f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dyinglinks.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='dyinglinks.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0a30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/emergencycompliment.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fffff.at\/fake-url-trolling\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/fffff.at\/fake-url-trolling\/"
+    },
+    {
+        "URL":"http:\/\/fichtre.net\/yop.html",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fuckyeahpaganism.tumblr.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/fuckyeahpaganism.tumblr.com\/"
+    },
+    {
+        "URL":"http:\/\/gianturl.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/gifsound.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/gifsound.com\/"
+    },
+    {
+        "URL":"http:\/\/hadonejob.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/hexu.al\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/hhhhold.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/ww1.hhhhold.com"
+    },
+    {
+        "URL":"http:\/\/hugepic.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/appmaster.io\/blog\/relational-databases-for-non-coders-how-do-you-code-a-relational-database"
+    },
+    {
+        "URL":"http:\/\/icanhazip.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jqueery.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.jqueery.com\/"
+    },
+    {
+        "URL":"http:\/\/lab.hakim.se\/forkit-js\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/lab.hakim.se\/forkit-js\/"
+    },
+    {
+        "URL":"http:\/\/llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogo.ch\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/m3fe.com\/"
+    },
+    {
+        "URL":"http:\/\/lovebomb.me\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='lovebomb.me', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1210e08e0>, 'Connection to lovebomb.me timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/mrdiv.tumblr.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/mrdiv.tumblr.com\/"
+    },
+    {
+        "URL":"http:\/\/photoshopetiquette.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/photoshopetiquette.com\/"
+    },
+    {
+        "URL":"http:\/\/printstylesheet.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/rlemon.github.com\/lememe\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/rlemon.github.com\/lememe\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/sharebar.net\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/sketchub.com\/ykrzbycwej",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/thisiswhyimbroke.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.thisiswhyimbroke.com\/"
+    },
+    {
+        "URL":"http:\/\/tldr.io\/chrome-extension",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/tldr.io\/chrome-extension"
+    },
+    {
+        "URL":"http:\/\/toolong-didntread.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tympanus.net\/Tutorials\/SwatchBook\/index.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/tympanus.net\/Tutorials\/SwatchBook\/index.html"
+    },
+    {
+        "URL":"http:\/\/urlte.am\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/tracker.archiveteam.org:1337\/status"
+    },
+    {
+        "URL":"http:\/\/vastimg.herokuapp.com\/",
+        "Status Code":"Error",
+        "Status Description":"503 Server Error: Service Unavailable for url: http:\/\/vastimg.herokuapp.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/veli.ee\/lab\/csspacman\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/veli.ee\/lab\/csspacman\/"
+    },
+    {
+        "URL":"http:\/\/visualidiot.com\/articles\/mailappapp",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.visualidiot.com\/articles\/mailappapp"
+    },
+    {
+        "URL":"http:\/\/www.codingconfessional.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.youtube.com\/watch?v=u_Z8sStmqJ0&ab_channel=OneVidReplies"
+    },
+    {
+        "URL":"http:\/\/www.comicsanscriminal.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.getworkdonemusic.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.kurlak.com\/john\/source.html%E2%80%AD",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.loremipsum.net\/pixelgif\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.loremipsum.net', port=80): Max retries exceeded with url: \/pixelgif\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0700>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.pugstagr.am\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.pugstagr.am', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.tannr.com\/herp-derp-youtube-comments\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.tannr.com\/herp-derp-youtube-comments\/"
+    },
+    {
+        "URL":"http:\/\/www.theuselessweb.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.theuselessweb.com\/"
+    },
+    {
+        "URL":"http:\/\/www.unforgettable.dk\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/unforgettable.dk\/"
+    },
+    {
+        "URL":"https:\/\/github.com\/iamcal\/PNGStore",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dshr.es\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='dshr.es', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0970>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/boxjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/min.us\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/min.us\/"
+    },
+    {
+        "URL":"http:\/\/lulzimg.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='lulzimg.com', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x12115cf40>, 'Connection to lulzimg.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/min.us\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/min.us\/"
+    },
+    {
+        "URL":"http:\/\/imm.io\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='imm.io', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115ce20>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/getcloudapp.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/getcloudapp.com\/"
+    },
+    {
+        "URL":"http:\/\/ge.tt\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='ge.tt', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/thoughtback.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/thread.is\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/thread.is\/"
+    },
+    {
+        "URL":"https:\/\/droplr.com\/hello",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"\/"
+    },
+    {
+        "URL":"http:\/\/unroll.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/unroll.me\/"
+    },
+    {
+        "URL":"http:\/\/excitedatom.com\/dropin\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/excitedatom.com\/dropin\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.appfog.com\/products\/phpfog\/pricing\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='www.appfog.com', port=443): Max retries exceeded with url: \/products\/phpfog\/pricing\/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12115ca60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.getharvest.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.getharvest.com\/"
+    },
+    {
+        "URL":"http:\/\/www.joukuu.com\/welcome\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.joukuu.com\/welcome\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/amsul.github.com\/pickadate.js\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/amsul.github.com\/pickadate.js\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/arcturo.github.com\/library\/coffeescript\/02_syntax.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/arcturo.github.com\/library\/coffeescript\/02_syntax.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/attardi.org\/labels\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/attardi.org\/labels\/"
+    },
+    {
+        "URL":"http:\/\/bartaz.github.com\/sandbox.js\/jquery.highlight.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/bartaz.github.com\/sandbox.js\/jquery.highlight.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/benpickles.github.com\/peity\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/benpickles.github.com\/peity\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/borbit.github.com\/tiler\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/borbit.github.com\/tiler\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/boxjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/brad.is\/coding\/BigScreen\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/brad.is\/coding\/BigScreen\/"
+    },
+    {
+        "URL":"http:\/\/brutaldesign.github.com\/swipebox\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/brutaldesign.github.com\/swipebox\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/cdnjs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/cdnjs.com\/"
+    },
+    {
+        "URL":"http:\/\/codebomber.com\/jquery\/slidepanel\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='codebomber.com', port=80): Max retries exceeded with url: \/jquery\/slidepanel\/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115ceb0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/codepen.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/codepen.io\/"
+    },
+    {
+        "URL":"http:\/\/component.jit.su\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='component.jit.su', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/craig.is\/killing\/mice",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/craig.is\/killing\/mice"
+    },
+    {
+        "URL":"http:\/\/craig.is\/riding\/gators",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/craig.is\/riding\/gators"
+    },
+    {
+        "URL":"http:\/\/cript.nwbox.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='cript.nwbox.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182460>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/darsa.in\/sly\/#!vertical",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/darsa.in\/sly\/"
+    },
+    {
+        "URL":"http:\/\/domenlightenment.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dropthebit.com\/demos\/photobox\/",
+        "Status Code":"Error",
+        "Status Description":"410 Client Error: Gone for url: http:\/\/dropthebit.com\/demos\/photobox\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/epeli.github.com\/underscore.string\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/epeli.github.com\/underscore.string\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/exacttarget.github.com\/fuelux\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/exacttarget.github.com\/fuelux\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/f1lt3r.com\/code\/js1k-2012-love\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.f1lt3r.com\/code\/js1k-2012-love\/"
+    },
+    {
+        "URL":"http:\/\/filamentgroup.com\/lab\/socialcount",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/filamentgroup.com\/lab\/socialcount"
+    },
+    {
+        "URL":"http:\/\/fittextjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/garlicjs.org\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/gist-it.sudarmuthu.com\/",
+        "Status Code":"Error",
+        "Status Description":"500 Server Error: Internal Server Error for url: http:\/\/gist-it.sudarmuthu.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/gmap.nurtext.de\/examples.html",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/host.sonspring.com\/portlets\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/host.sonspring.com\/portlets\/"
+    },
+    {
+        "URL":"http:\/\/instafeedjs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/instafeedjs.com\/"
+    },
+    {
+        "URL":"http:\/\/ivaynberg.github.com\/select2\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/ivaynberg.github.com\/select2\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jakiestfu.github.com\/Mention.js\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/jakiestfu.github.com\/Mention.js\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/johnpolacek.github.com\/superscrollorama\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/johnpolacek.github.com\/superscrollorama\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jpanelmenu.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='jpanelmenu.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1211825e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jquerypp.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/js.gd\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/jschr.github.com\/textillate\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/jschr.github.com\/textillate\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/julianlam.github.com\/tabIndent.js\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/julianlam.github.com\/tabIndent.js\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/kayschneider.github.com\/pinbox\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/kayschneider.github.com\/pinbox\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/keithcirkel.co.uk\/jwerty\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.keithcirkel.co.uk\/jwerty\/"
+    },
+    {
+        "URL":"http:\/\/kinesis.io\/examples\/touch-effects\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/kinesis.io\/examples\/touch-effects\/"
+    },
+    {
+        "URL":"http:\/\/kushagragour.in\/lab\/isoblocks\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/kushagragour.in\/lab\/isoblocks\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/labs.voronianski.com\/jquery.avgrund.js\/#",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/labs.voronianski.com\/jquery.avgrund.js\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/leafletjs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/leafletjs.com\/"
+    },
+    {
+        "URL":"http:\/\/masonry.desandro.com\/demos\/infinite-scroll.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/masonry.desandro.com\/demos\/infinite-scroll.html"
+    },
+    {
+        "URL":"http:\/\/mojotech.github.com\/stickymojo\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/mojotech.github.com\/stickymojo\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/mozilla.github.com\/x-tag\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/mozilla.github.com\/x-tag\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/noraesae.github.com\/perfect-scrollbar\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/noraesae.github.com\/perfect-scrollbar\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/numeraljs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/oosmoxiecode.github.com\/examples\/xgui.js\/testbed.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/oosmoxiecode.github.com\/examples\/xgui.js\/testbed.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/paulkinzett.github.com\/toolbar\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/paulkinzett.github.com\/toolbar\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pinesframework.org\/pnotify\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/ww1.pinesframework.org"
+    },
+    {
+        "URL":"http:\/\/prototype-window.xilinus.com\/PWC-OS\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='prototype-window.xilinus.com', port=80): Max retries exceeded with url: \/PWC-OS\/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x12115c1c0>, 'Connection to prototype-window.xilinus.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/remy.bach.me.uk\/superlabels_demo\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/remybach.dev"
+    },
+    {
+        "URL":"http:\/\/ryejs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/ryejs.com\/"
+    },
+    {
+        "URL":"http:\/\/scrollnav.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/scrollnav.com\/"
+    },
+    {
+        "URL":"http:\/\/sequencejs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.sequencejs.com\/"
+    },
+    {
+        "URL":"http:\/\/snackjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/socialitejs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/ssssnakes.com\/smoke\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.hugedomains.com\/domain_profile.cfm?d=ssssnakes.com"
+    },
+    {
+        "URL":"http:\/\/sticky-element.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/suprb.com\/apps\/nested\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/toki-woki.net\/lab\/long-press\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tolgaergin.com\/files\/social\/index.html#",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tracelytics.github.com\/pageguide\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/tracelytics.github.com\/pageguide\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tweet.seaofclouds.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='tweet.seaofclouds.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0bb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/underscorejs.org\/#sortBy",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/vanilla-masonry.desandro.com\/docs\/intro.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/vanilla-masonry.desandro.com\/docs\/intro.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/webdesignerwall.com\/demo\/html5-grayscale\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/webdesignerwall.com\/demo\/html5-grayscale\/"
+    },
+    {
+        "URL":"http:\/\/whatkey.net\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='whatkey.net', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0820>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/willemmulder.github.com\/FilteredPaste.js\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/willemmulder.github.com\/FilteredPaste.js\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/wtfjs.com\/2013\/02\/21\/why-am-i-a-number",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/wtfjs.com\/2013\/02\/21\/why-am-i-a-number"
+    },
+    {
+        "URL":"http:\/\/www.456bereastreet.com\/lab\/whitespace-around-text-fields\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.456bereastreet.com\/lab\/whitespace-around-text-fields\/"
+    },
+    {
+        "URL":"http:\/\/www.berriart.com\/sidr\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.berriart.com\/sidr\/"
+    },
+    {
+        "URL":"http:\/\/www.bestjquery.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.datatables.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.datatables.net\/"
+    },
+    {
+        "URL":"http:\/\/www.dreamtemplate.com\/dreamcodes\/documentation\/tweet.html",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.dropzonejs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.dropzone.dev\/js\/"
+    },
+    {
+        "URL":"http:\/\/www.eyecon.ro\/bootstrap-datepicker\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.eyecon.ro\/bootstrap-datepicker\/"
+    },
+    {
+        "URL":"http:\/\/www.fancybox.net\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.iamcal.com\/png-store\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.iamcal.com\/png-store\/"
+    },
+    {
+        "URL":"http:\/\/www.jacklmoore.com\/zoom",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.jacklmoore.com\/zoom\/"
+    },
+    {
+        "URL":"http:\/\/www.jsdb.io\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www6.jsdb.io\/?template=ARROW_3&tdfs=1&s_token=1665300540.0379970000&uuid=1665300540.0379970000&term=Javascript%20Chart%20Library&term=Javascript%20Grid&term=Javascript%20Database&searchbox=0&showDomain=0&backfill=0"
+    },
+    {
+        "URL":"http:\/\/www.matiasmancini.com.ar\/ajax-jquery-validation-html5-form.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/matiasmancini.com.ar\/ajax-jquery-validation-html5-form.html"
+    },
+    {
+        "URL":"http:\/\/www.scriptcam.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.scriptcam.com\/"
+    },
+    {
+        "URL":"http:\/\/xing.github.com\/wysihtml5\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/xing.github.com\/wysihtml5\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/xregexp.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/xregexp.com\/"
+    },
+    {
+        "URL":"https:\/\/github.com\/beriberikix\/vanillajsf.tw",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/gfranko\/jquery.tocify.js",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/kylebarrow\/chibi",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/kippt.com\/jg\/javascript",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='kippt.com', port=443): Max retries exceeded with url: \/jg\/javascript (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1210e0dc0>, 'Connection to kippt.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/github.com\/jschr\/bootstrap-modal\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fineuploader.com\/#demo",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/fineuploader.com\/"
+    },
+    {
+        "URL":"http:\/\/maxcdn.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.maxcdn.com\/"
+    },
+    {
+        "URL":"http:\/\/www.cloudcache.com\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.cloudcache.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.netdna.com\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.netdna.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tinycdn.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/tinypng.com"
+    },
+    {
+        "URL":"http:\/\/www.cdn77.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.cdn77.com\/"
+    },
+    {
+        "URL":"http:\/\/www.impressjscdn.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.impressjscdn.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117bbe0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.bootstrapcdn.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.bootstrapcdn.com\/"
+    },
+    {
+        "URL":"http:\/\/boxjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.speedawarenessmonth.com\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.speedawarenessmonth.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.jsdelivr.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.jsdelivr.com\/"
+    },
+    {
+        "URL":"http:\/\/boxjs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/cdnjs.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/cdnjs.com\/"
+    },
+    {
+        "URL":"http:\/\/www.cdnconnect.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.cdnconnect.com\/"
+    },
+    {
+        "URL":"http:\/\/artlibre.org\/licence\/lal\/en",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/artlibre.org\/licence\/lal\/en\/"
+    },
+    {
+        "URL":"http:\/\/disable-java.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='disable-java.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b3d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/aaronsw.archiveteam.org\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='aaronsw.archiveteam.org', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117ba90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.internetdeclaration.org\/freedom",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.internetdeclaration.org\/freedom",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.savetheinternet.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.savetheinternet.com\/"
+    },
+    {
+        "URL":"http:\/\/www.webrtc.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/webrtc.org\/"
+    },
+    {
+        "URL":"http:\/\/www.kopimi.com\/kopimi\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/www.kopimi.com\/kopimi\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dearmarissamayer.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='dearmarissamayer.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12117b880>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/internetdefenseleague.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/internetdefenseleague.org\/"
+    },
+    {
+        "URL":"http:\/\/iworkfortheinternet.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/bestcheapro.com\/"
+    },
+    {
+        "URL":"http:\/\/programming-motherfucker.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/generatedcontent.org\/post\/37949105556\/updateyourcss3",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/generatedcontent.org\/post\/37949105556\/updateyourcss3"
+    },
+    {
+        "URL":"http:\/\/briks.si\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/briks.si\/"
+    },
+    {
+        "URL":"http:\/\/futurefriend.ly\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/relogo.org\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/hackpad.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/paper.dropbox.com\/hackpad\/"
+    },
+    {
+        "URL":"http:\/\/nerdquery.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='nerdquery.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182040>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.one-tab.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.one-tab.com\/"
+    },
+    {
+        "URL":"https:\/\/write-box.appspot.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/validator.w3.org\/checklink",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/validator.w3.org\/checklink"
+    },
+    {
+        "URL":"https:\/\/rawgithub.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/rawgit.com\/"
+    },
+    {
+        "URL":"https:\/\/coderwall.com\/p\/lhsrcq",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/coderwall.com\/p\/lhsrcq\/one-line-browser-notepad"
+    },
+    {
+        "URL":"http:\/\/rdfa.info\/play\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/subsimple.com\/bookmarklets\/jsbuilder.htm",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.cssminifier.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.toptal.com\/developers\/cssminifier\/"
+    },
+    {
+        "URL":"http:\/\/filamentgroup.com\/lab\/socialcount",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/filamentgroup.com\/lab\/socialcount"
+    },
+    {
+        "URL":"http:\/\/showw.me\/signup",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www.showw.me\/signup"
+    },
+    {
+        "URL":"http:\/\/webdevchecklist.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.toptal.com\/developers\/webdevchecklist"
+    },
+    {
+        "URL":"http:\/\/alpha.gisti.es\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='alpha.gisti.es', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182250>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/bl.ocks.org\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/bl.ocks.org\/"
+    },
+    {
+        "URL":"https:\/\/github.com\/diy\/jquery-emojiarea",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.gitalist.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.directorylister.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.directorylister.com\/"
+    },
+    {
+        "URL":"http:\/\/fortrabbit.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.fortrabbit.com\/"
+    },
+    {
+        "URL":"https:\/\/github.com\/trey\/lifestream",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/selfoss.aditu.de\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/selfoss.aditu.de\/"
+    },
+    {
+        "URL":"http:\/\/microphp.org\/code.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.parthpatel.net\/tags\/php\/"
+    },
+    {
+        "URL":"http:\/\/jsbin.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/codepen.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/codepen.io\/"
+    },
+    {
+        "URL":"http:\/\/jsfiddle.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/jsfiddle.net\/"
+    },
+    {
+        "URL":"http:\/\/plunker.no.de\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='plunker.no.de', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182b20>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dabblet.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/dabblet.com\/"
+    },
+    {
+        "URL":"http:\/\/jsdo.it\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/jsdo.it\/"
+    },
+    {
+        "URL":"https:\/\/thimble.webmaker.org",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='thimble.webmaker.org', port=443): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x121182940>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fiddlesalad.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.zenpen.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.zenpen.io\/"
+    },
+    {
+        "URL":"http:\/\/textbelt.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/textbelt.com\/"
+    },
+    {
+        "URL":"https:\/\/www.sendhub.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/quojs.tapquo.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.findmyhosting.com\/tapquo\/"
+    },
+    {
+        "URL":"http:\/\/maker.github.com\/ratchet\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/maker.github.com\/ratchet\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/futurefriend.ly\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/5apps.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/html5weekly.com\/archive\/55.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/frontendfoc.us\/archive\/55.html"
+    },
+    {
+        "URL":"http:\/\/xing.github.com\/wysihtml5\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/xing.github.com\/wysihtml5\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.matiasmancini.com.ar\/ajax-jquery-validation-html5-form.html",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/matiasmancini.com.ar\/ajax-jquery-validation-html5-form.html"
+    },
+    {
+        "URL":"http:\/\/www.html5libs.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/html5tpl.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tolgaergin.com\/files\/social\/index.html#",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/checkthis.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/dellafaille.co"
+    },
+    {
+        "URL":"http:\/\/www.po.st\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/bo.lt",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='bo.lt', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182700>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/filamentgroup.com\/lab\/socialcount",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/filamentgroup.com\/lab\/socialcount"
+    },
+    {
+        "URL":"http:\/\/showw.me\/signup",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www.showw.me\/signup"
+    },
+    {
+        "URL":"https:\/\/imo.im\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/workingnotworking.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='workingnotworking.com', port=80): Read timed out. (read timeout=5)",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.gittip.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='www.gittip.com', port=443): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12117bb80>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/www.wepay.com\/payment-buttons",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.wepay.com\/"
+    },
+    {
+        "URL":"http:\/\/tiptheweb.org\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='tiptheweb.org', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x12117bbe0>, 'Connection to tiptheweb.org timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tinypay.me\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='tinypay.me', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1210e0d60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pledgie.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='pledgie.com', port=80): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1210e0070>, 'Connection to pledgie.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/coinfly.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='coinfly.com', port=443): Max retries exceeded with url: \/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x12115cbe0>, 'Connection to coinfly.com timed out. (connect timeout=5)'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/sellboxhq.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='sellboxhq.com', port=80): Read timed out. (read timeout=5)",
+        "Redirect URL":null
+    },
+    {
+        "URL":"https:\/\/tent.is\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='tent.is', port=443): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1211824f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/identi.ca\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='identi.ca', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182b80>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.inspectlet.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.inspectlet.com\/"
+    },
+    {
+        "URL":"http:\/\/get.gaug.es\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/get.gaug.es\/"
+    },
+    {
+        "URL":"http:\/\/gosquared.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.gosquared.com:443\/"
+    },
+    {
+        "URL":"https:\/\/mixpanel.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.crazyegg.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.crazyegg.com:443\/"
+    },
+    {
+        "URL":"http:\/\/wordpress.org\/extend\/plugins\/tweet-button-with-shortening\/screenshots\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/wordpress.org\/extend\/plugins\/tweet-button-with-shortening\/screenshots\/"
+    },
+    {
+        "URL":"http:\/\/www.bravenewcode.com\/product\/wordtwit-pro\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.bravenewcode.com\/product\/wordtwit-pro\/"
+    },
+    {
+        "URL":"http:\/\/sticky-element.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/taitems.github.com\/Front-End-Development-Guidelines",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/taitems.github.com\/Front-End-Development-Guidelines",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/html5snippets.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/windowsbulletin.com\/files\/exe\/socusoft-co-ltd\/html5-video-player-1-2-5\/"
+    },
+    {
+        "URL":"http:\/\/webdatacommons.org\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.bypeople.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.bypeople.com\/"
+    },
+    {
+        "URL":"http:\/\/arcturo.github.com\/library\/coffeescript\/02_syntax.html",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/arcturo.github.com\/library\/coffeescript\/02_syntax.html",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/fortrabbit.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/www.fortrabbit.com\/"
+    },
+    {
+        "URL":"http:\/\/www.lowendtalk.com\/categories\/offers",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/lowendtalk.com\/categories\/offers"
+    },
+    {
+        "URL":"http:\/\/uni.me\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/ovh.de\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.ovh.de\/"
+    },
+    {
+        "URL":"http:\/\/ovh.ie\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.ovh.ie\/"
+    },
+    {
+        "URL":"http:\/\/hover.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"https:\/\/www.hover.com\/"
+    },
+    {
+        "URL":"http:\/\/www.gandi.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.gandi.net\/"
+    },
+    {
+        "URL":"https:\/\/iwantmyname.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/domai.nr\/",
+        "Status Code":307,
+        "Status Description":"Temporary Redirect",
+        "Redirect URL":"https:\/\/domai.nr\/"
+    },
+    {
+        "URL":"https:\/\/www.markupvalidator.com\/top100\/errors",
+        "Status Code":"Error",
+        "Status Description":"HTTPSConnectionPool(host='www.markupvalidator.com', port=443): Max retries exceeded with url: \/top100\/errors (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)')))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.downforeveryoneorjustme.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/downforeveryoneorjustme.com\/"
+    },
+    {
+        "URL":"http:\/\/crossrider.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='crossrider.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.sac.sk\/files.php?d=7&l=L",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.sac.sk\/files.php?d=7&l=L"
+    },
+    {
+        "URL":"http:\/\/www.w3resource.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.w3resource.com\/"
+    },
+    {
+        "URL":"http:\/\/www.apihub.com\/",
+        "Status Code":"Error",
+        "Status Description":"502 Server Error: Bad Gateway for url: http:\/\/www.apihub.com\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/disable-java.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='disable-java.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182640>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/dochub.io\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/dochub.com\/"
+    },
+    {
+        "URL":"http:\/\/taitems.github.com\/Front-End-Development-Guidelines\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/taitems.github.com\/Front-End-Development-Guidelines\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/snipplr.com\/all\/language\/javascript",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/snipplr.com\/all\/language\/javascript"
+    },
+    {
+        "URL":"http:\/\/www.yearofmoo.com\/code\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.yearofmoo.com\/code\/"
+    },
+    {
+        "URL":"http:\/\/adamwhitcroft.com\/apaxy\/",
+        "Status Code":"Error",
+        "Status Description":"404 Client Error: Not Found for url: http:\/\/adamwhitcroft.com\/apaxy\/",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/feeding.cloud.geek.nz\/posts\/prefetching-resources-to-prime-browser\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/feeding.cloud.geek.nz\/posts\/prefetching-resources-to-prime-browser\/"
+    },
+    {
+        "URL":"http:\/\/www.techsupportguides.com\/what-is-a-bookmarklet\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/bookmarklets.org\/what-is-a-bookmarklet\/"
+    },
+    {
+        "URL":"http:\/\/storify.com\/rem\/chromeless-webapps\/elements\/4f730be6e0da5d495925acbd",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='storify.com', port=80): Max retries exceeded with url: \/rem\/chromeless-webapps\/elements\/4f730be6e0da5d495925acbd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121182040>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/webdesign.tutsplus.com\/articles\/general\/seo-checklist\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/webdesign.tutsplus.com\/articles\/general\/seo-checklist\/"
+    },
+    {
+        "URL":"https:\/\/followgen.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.dmcleaner.com\/",
+        "Status Code":302,
+        "Status Description":"Found",
+        "Redirect URL":"http:\/\/www6.dmcleaner.com\/?template=ARROW_3&tdfs=1&s_token=1665300730.0190360000&uuid=1665300730.0190360000&term=Bulk%20Email%20Delete&term=Bulk%20SMS%20Delete&term=Delete%20All%20Spam%20Messages&searchbox=0&showDomain=0&backfill=0"
+    },
+    {
+        "URL":"http:\/\/twitter.pbworks.com\/w\/page\/1779741\/Bots",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/www.savepublishing.com\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"http:\/\/egommerce.com\/it\/"
+    },
+    {
+        "URL":"http:\/\/www.tweetdelete.net\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/www.tweetdelete.net\/"
+    },
+    {
+        "URL":"http:\/\/jetrank.com\/tf\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/jetrank.com\/tf\/"
+    },
+    {
+        "URL":"http:\/\/twubs.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='twubs.com', port=80): Read timed out. (read timeout=5)",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/unfollowers.me\/",
+        "Status Code":301,
+        "Status Description":"Moved Permanently",
+        "Redirect URL":"https:\/\/statusbrew.com\/"
+    },
+    {
+        "URL":"http:\/\/www.socialmention.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='www.socialmention.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115cd00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/tweetshrink.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='tweetshrink.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/pluck.attasi.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/listoftweets.com\/",
+        "Status Code":200,
+        "Status Description":"OK",
+        "Redirect URL":null
+    },
+    {
+        "URL":"http:\/\/lottatweets.com\/",
+        "Status Code":"Error",
+        "Status Description":"HTTPConnectionPool(host='lottatweets.com', port=80): Max retries exceeded with url: \/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12115c490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+        "Redirect URL":null
+    }
+]
