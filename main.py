@@ -78,9 +78,10 @@ status_description = {
 
 result = []
 
+count = 0
 for url in url_list:
     try:
-        r = requests.get(url, headers=headers,allow_redirects=False, timeout=10)
+        r = requests.get(url, headers=headers,allow_redirects=False, timeout=5)
         r.raise_for_status()
         if r.status_code in status_description:
             print("URL:", url)
@@ -100,8 +101,11 @@ for url in url_list:
             print("Redirect URL: {}".format(''))
             result.append([url, r.status_code, "Unknown", ''])
     except Exception as e:
-        print("URL Not Found: {}".format(url))
+        print("URL Error: {}".format(url))
         result.append([url, "Error", str(e), ''])
+
+    count += 1
+    print("Count: {}".format(count))
 
 df = pd.DataFrame(result, columns=['URL', 'Status Code', 'Status Description', 'Redirect URL'])
 
@@ -120,3 +124,4 @@ for i in range(2, len(df) + 2):
         ws.cell(row=i, column=2).fill = redFill
 
 writer.close()
+print("Completed")
