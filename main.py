@@ -100,7 +100,7 @@ for url in url_list:
             print("Redirect URL: {}".format(''))
             result.append([url, r.status_code, "Unknown", ''])
     except Exception as e:
-        print(e)
+        print("URL Not Found: {}".format(url))
         result.append([url, "Error", str(e), ''])
 
 df = pd.DataFrame(result, columns=['URL', 'Status Code', 'Status Description', 'Redirect URL'])
