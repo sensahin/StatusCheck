@@ -14,11 +14,5 @@ pip install -r requirements.txt
 Add urls in url_list.txt file. One url per line.
 
 Run python3 main.py
-ok
-asd
-TEST
-DENEME
-merhaba
 
-DENiyorum
-testimggg
+Cleanup done..
